@@ -6,3 +6,7 @@ This project has two sections, (a) the Player handout, meant to help players at 
 None of the written work of this project is my own. All written work is taken from the Daggerheart SRD.
 
 If you'd like to use this for your own work, just ask me on Reddit /u/daddyLongHairs 
+
+ - Full Colour Version 1.1
+ - B&W Version 1.1
+ - Portrait (TO DO)
